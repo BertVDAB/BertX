@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://bertverbanck.be/img/projects/bertx.png" alt="project-image"></p>
 
-<p id="description">Responsive frontend project made for a - up to this date - fictional space program</p>
+<p id="description">Responsive frontend project made for a - to this day - fictional space program</p>
 
 <h2>🚀 Demo</h2>
 
